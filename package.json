@@ -1,0 +1,23 @@
+{
+  "name": "esBuild-project",
+  "version": "1.0.0",
+  "description": "test esBuild in a test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danysainero/esBuild-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danysainero/esBuild-project/issues"
+  },
+  "homepage": "https://github.com/danysainero/esBuild-project#readme",
+  "devDependencies": {
+    "esbuild": "^0.14.10"
+  }
+}
